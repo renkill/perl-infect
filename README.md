@@ -1,7 +1,7 @@
 # perl-infect
 perl infect for irc net's, script by @inocenth4x0r and @prettysatan
 
-Layer4 commands:
+layer4 commands:
 
 !udp ip / !stopudp |
 
@@ -17,7 +17,7 @@ Layer4 commands:
 
 
 
-Layer7 commands:
+layer7 commands:
 
 !sadattack http://wwww.google.com.br / !stopsad |
 
