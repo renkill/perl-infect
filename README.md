@@ -13,7 +13,7 @@ layer4 commands:
 
 !ack ip time | !stopack 
 
-!ufo ip time | !stopack 
+!ufo ip time | !stopufo
 
 
 
